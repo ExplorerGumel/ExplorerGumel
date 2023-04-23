@@ -1,5 +1,4 @@
 [![MasterHead](https://github.com/ExplorerGumel/ExplorerGumel/blob/main/header.png)](https://github.com/ExplorerGumel/)
-### Hi there 👋
 
 - 🔭 I’m currently working on improving myself every single day.
 - 🌱 I’m currently learning Machine learning and deep learning
@@ -20,6 +19,7 @@
 **ExplorerGumel/ExplorerGumel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
