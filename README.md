@@ -1,5 +1,7 @@
 [![MasterHead](https://github.com/ExplorerGumel/ExplorerGumel/blob/main/header.png)](https://github.com/ExplorerGumel/)
 
+- 🔭 I’m a certified Google Tensorflow Developer.
+- 🔭 I’m currently a Deep learning fellow at Arewa Data Science Academy.
 - 🔭 I’m currently working on improving myself every single day.
 - 🌱 I’m currently learning Machine learning and deep learning
 - 👯 I’m looking forward to collaborate on projects.
